@@ -19,5 +19,3 @@ workflows:
       email:
         recipients:
           - mohammedimostefa70@gmail.com
-        on_build_success: true
-        on_build_failure: true
