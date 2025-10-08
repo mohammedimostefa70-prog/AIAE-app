@@ -18,6 +18,6 @@ workflows:
     publishing:
       email:
         recipients:
-          - your_email@example.com
+          - mohammedimostefa70@gmail.com
         on_build_success: true
         on_build_failure: true
