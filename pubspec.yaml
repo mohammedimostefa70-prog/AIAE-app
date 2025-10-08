@@ -1,0 +1,26 @@
+name: aiae_native_app
+description: Native Flutter app for AIAE - AI in Applied Economics (Tipaza)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.10.0
+  cloud_firestore: ^4.8.3
+  firebase_storage: ^11.2.3
+  shared_preferences: ^2.1.0
+  flutter_local_notifications: ^12.0.4
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/

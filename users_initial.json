@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "code": "952748",
+      "role": "owner",
+      "name": "Owner",
+      "lockedName": true
+    },
+    {
+      "code": "111111",
+      "role": "admin",
+      "name": "Admin1",
+      "lockedName": true
+    },
+    {
+      "code": "222222",
+      "role": "admin",
+      "name": "Admin2",
+      "lockedName": true
+    },
+    {
+      "code": "333333",
+      "role": "admin",
+      "name": "Admin3",
+      "lockedName": true
+    },
+    {
+      "code": "400001",
+      "role": "prof",
+      "name": "",
+      "lockedName": false
+    },
+    {
+      "code": "500001",
+      "role": "student",
+      "name": "",
+      "lockedName": false
+    }
+  ]
+}
